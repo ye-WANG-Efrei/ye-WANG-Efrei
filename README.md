@@ -4,7 +4,7 @@
 
 <!-- 个人统计卡：改成你的用户名。可选主题：merko / tokyonight / radical / dracula / github_dark -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=merko"
+  src="https://github-readme-stats.vercel.app/api?username=ye-WANG-Efrei&show_icons=true&theme=merko"
   alt="GitHub stats"
 />
 
