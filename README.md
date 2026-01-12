@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @ye-WANG-Efrei
-- 👀 I’m interested in AI, data engineering, and machine learning projects
-- 📫 How to reach me You can reach me via my GitHub profile or through email at [wangye.e@qq.com].
+<div align="center">
 
-<!---
-ye-WANG-Efrei/ye-WANG-Efrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ <b>Goal is Data Engineer & Trustworthy AI</b> ✨
+
+<!-- 个人统计卡：改成你的用户名。可选主题：merko / tokyonight / radical / dracula / github_dark -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=merko"
+  alt="GitHub stats"
+/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ye-WANG-Efrei/ye-WANG-Efrei/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ye-WANG-Efrei/ye-WANG-Efrei/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ye-WANG-Efrei/ye-WANG-Efrei/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
